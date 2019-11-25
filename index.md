@@ -35,4 +35,4 @@ jyron.dev@gmail.com
 
 ## Pet Project
 
-Since having my Mac stolen in __August 2019__ :sob: I have made it a point to repurpose old pcs and laptops with lightweight, usable linux distros (Ubuntu, openSuse, etc) and donate them to students who want to learn coding.  If you would like to help donate laptops to aspiring student coders, contact me.
+Since having my Mac stolen in __August 2019__ I have made it a point to repurpose old pcs and laptops with lightweight, usable linux distros (Ubuntu, openSuse, etc) and donate them to students who want to learn coding.  If you would like to help donate laptops to aspiring student coders, contact me.
