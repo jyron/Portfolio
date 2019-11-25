@@ -4,7 +4,7 @@ I am a front and back-end developer who uses Python, Javascript, Sql, and MongoD
 
 My latest projects include 
 WorldWriterClub
-![WorldWritersClub](https://imgur.com/HdhatUo)
+![WorldWritersClub]("https://imgur.com/HdhatUo")
 
 and Here!News!Now!
 
