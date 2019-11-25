@@ -15,7 +15,7 @@ This site features an integration with News Api to present top headlines from ar
 ### [Kaggle Datasets](https://www.kaggle.com/jyronw/us-state-of-the-union-addresses-1790-2019)
 This dataset contains a transcript of every U.S Presidential State Of The Union, from 1790-2019.  It's been downloaded and used for research 30+ times!  It was created using Python and CSV file formatter, with the original intention being NLP research.
 
-# Jobs
+## Jobs
 
 I work largely in Python, Node.Js, and SQL/NoSQL to create back-end services.  In addition I have extensive experience with TCP/IP packet analysis and Linux OS configuration and customization.  
 If your open positions include
@@ -25,14 +25,14 @@ If your open positions include
 -- Database
 -- Data
 -- Linux
+
 I am interested!
 
-# Contact
+## Contact
 
-I'm currently __available__
 If you would like to reach me, use
 jyron.dev@gmail.com 
 
 ## Pet Project
 
-Since having my Mac stolen in __August 2019__ I have made it a point to repurpose old pcs and laptops with lightweight, usable linux distros (ubuntu, openSuse, etc) and donate them to students who want to learn coding.  If you would like a laptop for personal use __or__ would like to donate laptops to aspiring student coders, contact me.
+Since having my Mac stolen in __August 2019__ I have made it a point to repurpose old pcs and laptops with lightweight, usable linux distros (ubuntu, openSuse, etc) and donate them to students who want to learn coding.  If you would like to help donate laptops to aspiring student coders, contact me.
