@@ -25,11 +25,13 @@ If your open positions include
 * Database
 * Data
 * Linux
+
 **I am interested!**
 
 ## Contact
 
 If you would like to reach me, use
+
 **jyron.dev@gmail.com** 
 
 ## Pet Project
