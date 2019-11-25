@@ -19,14 +19,14 @@ This dataset contains a transcript of every U.S Presidential State Of The Union,
 
 I work largely in Python, Node.Js, and SQL/NoSQL to create back-end services.  In addition I have extensive experience with TCP/IP packet analysis and Linux OS configuration and customization.  
 If your open positions include
--- Backend
--- Frontend
--- API
--- Database
--- Data
--- Linux
+- Backend
+- Frontend
+- API
+- Database
+- Data
+- Linux
 
-I am interested!
+__I am interested!__
 
 ## Contact
 
@@ -35,4 +35,4 @@ jyron.dev@gmail.com
 
 ## Pet Project
 
-Since having my Mac stolen in __August 2019__ I have made it a point to repurpose old pcs and laptops with lightweight, usable linux distros (ubuntu, openSuse, etc) and donate them to students who want to learn coding.  If you would like to help donate laptops to aspiring student coders, contact me.
+Since having my Mac stolen in __August 2019__ :sob: I have made it a point to repurpose old pcs and laptops with lightweight, usable linux distros (Ubuntu, openSuse, etc) and donate them to students who want to learn coding.  If you would like to help donate laptops to aspiring student coders, contact me.
