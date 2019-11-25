@@ -1,4 +1,4 @@
-## Welcome to [Jyron's Developer Portfolio](https://jyron.github.io/Portfolio/)
+## Welcome to [Jyron's Developer Portfolio](/)
 
 I am a front and back-end developer who uses Python, Javascript, Sql, and MongoDb to create interactive websites and programs.
 
