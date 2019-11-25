@@ -19,19 +19,18 @@ This dataset contains a transcript of every U.S Presidential State Of The Union,
 
 I work largely in Python, Node.Js, and SQL/NoSQL to create back-end services.  In addition I have extensive experience with TCP/IP packet analysis and Linux OS configuration and customization.  
 If your open positions include
-- Backend
-- Frontend
-- API
-- Database
-- Data
-- Linux
-
-__I am interested!__
+* Backend
+* Frontend
+* API
+* Database
+* Data
+* Linux
+**I am interested!**
 
 ## Contact
 
 If you would like to reach me, use
-jyron.dev@gmail.com 
+**jyron.dev@gmail.com** 
 
 ## Pet Project
 
