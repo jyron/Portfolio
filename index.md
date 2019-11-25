@@ -1,8 +1,14 @@
-## Welcome to jyron.github.io/portfolio
+## Welcome to [Jyron's Developer Portfolio](jyron.github.io/portfolio)
 
-Here is a list of current and past projects, created by me and (usually) deployed on Github
+I am a front and back-end developer who uses Python, Javascript, Sql, and MongoDb to create interactive websites and programs.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My latest projects include 
+WorldWriterClub
+![WorldWritersClub](https://imgur.com/HdhatUo)
+
+and Here!News!Now!
+
+
 
 ### Markdown
 
