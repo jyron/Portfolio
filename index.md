@@ -2,12 +2,15 @@
 
 I am a front and back-end developer who uses Python, Javascript, Sql, and MongoDb to create interactive websites and programs.
 
-My latest projects include 
-WorldWriterClub
-![WorldWritersClub]("https://imgur.com/HdhatUo")
+## My latest projects include
 
-and Here!News!Now!
+### [WorldWriterClub](http://www.worldwritersclub.com/)
+A front-end powered by Css Keyframe animations, and a backend powered by Python/Flask/Postgres
+This site allows writers to submit writings based on our list of prompts, and save them to a public or private collection.
 
+### [Here!News!Now!](https://herenewsnow.herokuapp.com/)
+A front-end powered by Jade/Pug Templating engine, and a back-end powered by Express/Node.Js.
+This site features an integration with News Api to present top headlines from around the world.  
 
 
 ### Markdown
