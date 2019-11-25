@@ -15,7 +15,7 @@ This site features an integration with News Api to present top headlines from ar
 ### [Kaggle Datasets](https://www.kaggle.com/jyronw/us-state-of-the-union-addresses-1790-2019)
 This dataset contains a transcript of every U.S Presidential State Of The Union, from 1790-2019.  It's been downloaded and used for research 30+ times!  It was created using Python and CSV file formatter, with the original intention being NLP research.
 
-## Jobs
+# Jobs
 
 I work largely in Python, Node.Js, and SQL/NoSQL to create back-end services.  In addition I have extensive experience with TCP/IP packet analysis and Linux OS configuration and customization.  
 If your open positions include
@@ -27,7 +27,7 @@ If your open positions include
 -- Linux
 I am interested!
 
-## Contact
+# Contact
 
 I'm currently __available__
 If you would like to reach me, use
