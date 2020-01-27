@@ -12,7 +12,7 @@ This site allows writers to submit writings based on our list of prompts, and sa
 A front-end powered by Jade/Pug Templating engine, and a back-end powered by Express/Node.Js.
 This site features an integration with News Api to present top headlines from around the world, users can choose whichever subject interests them.
 
-### [WikiScraper](github.com/jyron/wikiscrape)
+### [WikiScraper](https://github.com/jyron/wikiscrape)
 This is a tool you can use to teach yourself about a variety of subjects, including endangered animals and U.S state histories.  It uses python/http requests to scrape data from several different websites and present info to you through a cli.  The click and choose format is very kid friendly, as are the giant images of cute animals that pop up when you use the service.  To get started, create a python virtual environment and follow the instructions in the repo.  
 
 ### [Kaggle Datasets](https://www.kaggle.com/jyronw/us-state-of-the-union-addresses-1790-2019)
