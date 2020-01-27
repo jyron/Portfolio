@@ -15,16 +15,22 @@ This site features an integration with News Api to present top headlines from ar
 ### [Kaggle Datasets](https://www.kaggle.com/jyronw/us-state-of-the-union-addresses-1790-2019)
 This dataset contains a transcript of every U.S Presidential State Of The Union, from 1790-2019.  It's been downloaded and used for research 30+ times!  It was created using Python and CSV file formatter, with the original intention being NLP research.
 
+### [Vue Ecommerce Store](https://www.kaggle.com/jyronw/us-state-of-the-union-addresses-1790-2019)
+This is a dynamic ecommerce store that updates its product line based on the weather of the city you search.  It uses the Open Weather Api alongside Vue Js to create a single page app that updates in realtime.  Try the link out!
+ps. We only sell ski clothes :)
+
+
+
 ## Jobs
 
 I work largely in Python, Node.Js, and SQL/NoSQL to create back-end services.  In addition I have extensive experience with TCP/IP packet analysis and Linux OS configuration and customization.  
 If your open positions include
 * Backend
-* Frontend
 * API
 * Database
 * Data
 * Linux
+* Cloud Services
 
 **I am interested!**
 
@@ -34,6 +40,6 @@ If you would like to reach me, use
 
 **jyron.dev@gmail.com** 
 
-## Pet Project
+## Project
 
-Since having my Mac stolen in __August 2019__ I have made it a point to repurpose old pcs and laptops with lightweight, usable linux distros (Ubuntu, openSuse, etc) and donate them to students who want to learn coding.  If you would like to help donate laptops to aspiring student coders, contact me.
+Since having my Mac stolen in __August 2018__ I have taken time to repurpose old pcs and laptops with lightweight, usable linux distros (Ubuntu, openSuse, etc) and donate them to students who want to learn coding.  If you would like to help donate laptops to aspiring student coders, contact me.
