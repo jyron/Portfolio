@@ -1,6 +1,6 @@
 ## Welcome to [Jyron's Portfolio]()
 
-I am a front and back-end developer who uses Python, Javascript, Sql, and MongoDb to create interactive websites, web scrapers, datasets, and custom Apis.
+I am a backend developer who uses Python, Javascript, Sql, and MongoDb to create interactive websites, web scrapers, datasets, and custom Apis.  I'm happy to work with cloud databases, distributed systems, and large datasets and datastreaming services.
 
 ## My latest projects include:
 
@@ -12,7 +12,7 @@ This site allows writers to submit writings based on our list of prompts, and sa
 A front-end powered by Jade/Pug Templating engine, and a back-end powered by Express/Node.Js.
 This site features an integration with News Api to present top headlines from around the world, users can choose whichever subject interests them.
 
-### [WikiScraper](https://github.com/jyron/wikiscrape)
+### [WikiScraper] The repo is in my github.  Not posting here because Jekyll is causing Absolute link issues.
 This is a tool you can use to teach yourself about a variety of subjects, including endangered animals and U.S state histories.  It uses python/http requests to scrape data from several different websites and present info to you through a cli.  The click and choose format is very kid friendly, as are the giant images of cute animals that pop up when you use the service.  To get started, create a python virtual environment and follow the instructions in the repo.  
 
 ### [Kaggle Datasets](https://www.kaggle.com/jyronw/us-state-of-the-union-addresses-1790-2019)
@@ -28,14 +28,14 @@ ps. We only sell ski clothes :)
 
 ## Jobs
 
-I work largely in Python, Node.Js, and SQL/NoSQL to create back-end services.  In addition I have extensive experience with TCP/IP packet analysis and Linux OS configuration and customization.  
+I'm currently working as a robotics teacher and Python tutor.  My expereince largely involves api and backend developement for startups.  I work largely in Python, Node.Js, and SQL/NoSQL to create back-end services.
 If your open positions include
 * Backend
-* API
-* Database
+* Distributed Systems
+* APIs
 * Data
 * Linux
-* Cloud Services
+* Python/Node js.
 
 **I am interested!**
 
@@ -47,4 +47,4 @@ If you would like to reach me, use
 
 ## Project
 
-Since having my Mac stolen in __August 2018__ I have taken time to repurpose old pcs and laptops with lightweight, usable linux distros (Ubuntu, openSuse, etc) and donate them to students who want to learn coding.  If you would like to help donate laptops to aspiring student coders, contact me.
+Since having my Mac stolen in __August 2018__ I have taken time to repurpose old pcs and laptops with lightweight, usable linux distros (Ubuntu, openSuse, etc) and donate them to students who want to learn coding.  If you would like to help donate laptops to aspiring student coders, contact me!
